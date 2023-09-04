@@ -1,1 +1,4 @@
-** Attack AWS link an Adervsary **
+Attack AWS link an Adervsary
+
+Setup instructions :
+- Terrafrom apply 
