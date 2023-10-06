@@ -1,1 +1,1 @@
-### This repo will contain all talks and workshops i delivered.
+I will use this repo to share my talks/workshops. 
